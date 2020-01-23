@@ -1,0 +1,10 @@
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\bin\Release\TetrisPOIS.exe.config
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\bin\Release\TetrisPOIS.exe
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\bin\Release\TetrisPOIS.pdb
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\obj\Release\TetrisPOIS.csprojAssemblyReference.cache
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\obj\Release\TetrisPOIS.TetrisForm.resources
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\obj\Release\TetrisPOIS.Properties.Resources.resources
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\obj\Release\TetrisPOIS.csproj.GenerateResource.cache
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\obj\Release\TetrisPOIS.csproj.CoreCompileInputs.cache
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\obj\Release\TetrisPOIS.exe
+C:\Users\luca2\source\repos\TetrisPOIS\TetrisPOIS\obj\Release\TetrisPOIS.pdb
